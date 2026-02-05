@@ -1,0 +1,1 @@
+Built a data quality–driven ETL pipeline to ingest only valid movie records into Amazon Redshift. Used Glue Crawlers, Catalog, and low-code ETL with data quality checks, automated alerts via EventBridge and SNS, and redirected failed records to S3 for remediation.
